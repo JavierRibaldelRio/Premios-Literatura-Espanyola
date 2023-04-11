@@ -1,0 +1,92 @@
+---
+title: "Premio Cervantes"
+toc: true
+toc-location: right
+toc-title: Índice
+toc-depth: 1
+
+code-overflow: wrap
+highlight-style: arrow
+anchor-sections: false
+---
+
+# Descripción
+
+El *Premio de Literarura en Lengua Castellana Miguel de Cervantes* es el *summum* de los premios de la literatura castellana, a diferencia del *premio Planeta* y *el premio Nadal*, éste es entregado a aquel escritor que con su trayectoria literaria ha enriquecido de forma notable la lengua castellana.
+
+Los candidatos son elegidos por el pleno de la RAE, conjuntamente con los ganadores de ediciones anteriores y por las Academias de la lengua de los paises de habla hispana. Después un jurado formado por:
+
+- Los dos últimos galardonados por el premio;
+- Un miembro de la Rae;
+- Un miembro de una de las Academias Iberoamericanas de la lengua español;
+- Cuatro personalidades del mundo académico (Elegidas por: el Director del Instituto Cervantes, La Unión de Universidades de América Latina, La Conferencia de Rectores de las Universidades Españolas y el ministro de Cultura de españa);
+- Dos miembros elegidos por representates de suplementos culturales de diarios (Elegidos por: la Federación de Asociaciones de Periodistas de España y una asociación de periodistas mayoritaria en Latinoamérica);
+- Un miembro propuestos pro la Asociación Internacional de Hispanitas.
+
+El premio se entrega el 23 de abril de cada año coincidiendo con el día de la muerte de Cervantes y el día del libro. 
+
+El premio es una dotación económica de 125.000 € concedida por el Ministerio de Cultura y Deporte
+
+
+# Historia 
+
+El origen del nombre no trae consigo ningún misterio, Cervantes es el archiconocido autor de *El Quijote*, la obra más importante de la literatura castellana.
+
+En 1975 dos meses antes de morir Franco, el que en aquel momento era el Ministerio de Información y Turismo crea el premio por: *la conveniencia de otorgar un reconocimiento oﬁcial, en que se una a la notoriedad pública la creación literaria en lengua castellana*. El primer premiado fue Jorge Guillén un poeta exiliado en 1976 a mitad de la Transición
+
+# Curiosidades
+
+- El premio lo entrega el rey de España
+- En los discursos de la entrega se ha de elogiar a a Cervantes y son conservados en la web del ministerio
+- Siempre se entrega en el Paraninfo de la Universidad de Alcalá de Henares
+- A día de hoy el 50% de los galardos son Españoles
+# Ganadores
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<p class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Primeros premiados</button>
+</p>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1976: Jorge Guillén
+- 1977: Alejo Carpentier
+- 1978: Dámaso Alonso
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Premiados conocidos
+</button>
+</p>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1983: Rafael Alberti
+- 1993: Miguel Delibes 
+- 1994: Mario Vargas Llosa
+- 1995: Camilo José Cela
+- 2016: Eduardo Mendoza
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+Últimos premiados</button>
+</p>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 2022: Rafael Cadenas
+- 2021: Cristina Peri Rossi
+- 2020: Francisco Brines
+
+</div>
+</div>
+</div>
+</div>
+
+<button class="btn btn-primary ades"><a  href="../index.html"> Volver a la página principal</a></button>

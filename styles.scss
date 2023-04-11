@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+main {
+
+    text-align: justify;
+
+    text-indent: 40px;
+}
+
+.botones-separados {
+    display: flex;
+    width: 100%;
+    margin: 3vmin 0;
+    justify-content: space-between;
+
+    padding: 0 5vmin;
+}
+
+h1,
+h2,
+li {
+
+    text-indent: 0px;
+}
+
+header span {
+
+    color: white !important;
+}
+
+.botones-separados a,
+.ades a {
+
+    text-decoration: none;
+
+
+
+    color: white;
+
+    cursor: default;
+}
+
+.ades {
+
+    margin: 5vmin 0;
+}

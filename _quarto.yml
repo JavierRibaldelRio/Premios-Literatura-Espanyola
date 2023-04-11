@@ -5,17 +5,18 @@ project:
     browser: false
 
 website:
-  title: "Premios de la literatura española"
+  title: Premios de la Literatura Española
+  search: false 
+ 
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    collapse: false
+    left: []
+      
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - flatly
+    - styles.scss
     toc: true
 
 

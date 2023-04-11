@@ -1,5 +1,81 @@
 ---
-title: "About"
+title: "Premio Planeta"
+toc: true
+toc-location: right
+toc-title: Índice
+toc-depth: 1
+
+code-overflow: wrap
+highlight-style: arrow
+anchor-sections: false
 ---
 
-About this site
+# Descripción
+El *Premio Planeta* es entregado por la [editorial Planeta](https://www.planetadelibros.com/editorial/editorial-planeta/8) a la mejor novela inédita. Actualmente ostenta el puesto de concurso literario con mayor premio económico,que en el pasado 2022, fueron un total <strong>1.000.000€</strong> para la obra ganadora y 200.000€ para la finalista además de la publicación del libro por la editorial planeta y los beneficios que ésta genere.
+
+En esta última edición (71ª), se superó el récord de participación, con 846 obras. La gran mayoría procedentes de España y América del sur. La ganadora del concurso ha sido la española Luz Gabás con *Lejos de Luisiana*.
+
+En relación al funcionamiento interno, todas las obras son leídas y calificadas. Tras ésto, las 10 obras que han obtenido calificacione más altas son entregadas al jurado el cual elige una ganadora y una finalista.
+
+# Historia 
+
+El *Premio Planeta* fue creado por el fundador de la editorial Planeta, José Manuel Lara Hernández en 1952. El premio se entrega cada 15 de octubre por la noche en honor al santo de la esposa del fundador  María Teresa Bosch.
+
+# Curiosidades
+
+- Mercedes Salisachs fue finalista dos veces y también ganadora
+- Ha habido ganadores que más tarde han sido miembros del jurado
+- El primer premio eran 40.000 pesetas que son 240 € y que en la situación económica actual serían 3.500 €
+- El último premio han sido un 1.000.000 € que son 166.386.000 pesetas
+- En las primeras portadas se encuentran personajes desesperados y en las últimas paisajes metropolitanos o marítimos
+- Miguel Delibes y Ernesto Sábado, decian que recibieron la oferta de ganar el premio
+- En la edición de 2021 ganaron tres autores bajo el nombre de Carmen Mola
+
+# Ganadores
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<p class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Primeros premiados</button>
+</p>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1952: *En la noche no hay caminos* Juan José Mira
+- 1953: *Una casa con goteras* Santiago Lorén
+- 1954: *Pequeño teatro* Ana María Matute
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Premiados conocidos
+</button>
+</p>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1993: *Lituma en los Andes* Mario Vargas Llosa
+- 1994: *La cruz se San Andrés* Camilo José Cela
+- 2010: *Riña de gatos. Madrid 1936* Eduardo Mendoza
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+Últimos premiados</button>
+</p>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 2022: *Lejos de Luisiana* Luz Gabás
+- 2021: *La Bestia* <u>Carmen Mola</u>
+- 2020: *Aquitania* Eva García Sáenz de Urturi
+
+</div>
+</div>
+</div>
+</div>
+
+<button class="btn btn-primary ades"><a  href="../index.html"> Volver a la página principal</a></button>

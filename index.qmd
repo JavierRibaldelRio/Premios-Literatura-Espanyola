@@ -1,7 +1,15 @@
 ---
-title: "premios-literatura-espanyola"
+title: "Introducción"
 ---
 
-This is a Quarto website.
+Está escrito en las leyes de la naturaleza que dos individuos o más de la misma especie tienden a desarrollar una relación de competencia. Los autores y escritores, como son individuos de la misma especie, a veces puden rivalizar unos con otros (como es el caso de Góngora y Quevedo). Sin embargo, hay muchas cosas por las que competir, en el mundo de los autores destacan dos cosas: la fama y el reconocimiento.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Para ésto se inventaron los concursos para elegir la mejor obra o al mejor autor entre todos los demás y al que además se le otorgaganador una generosa dotación económica y publicidad. 
+
+A continuación vamos a repasar los premios de literatura española más célebres:
+
+<div class="botones-separados">
+<button type="button" class="btn btn-secondary"><a href="pages/premio-planeta.html">Premio Planeta</a></button>
+<button type="button" class="btn btn-danger"><a href="pages/premio-cervantes.html">Premio Cervantes</a></button>
+<button type="button" class="btn btn-warning">Premio Nadal</button>
+</div>
