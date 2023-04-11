@@ -1,0 +1,82 @@
+---
+title: "Premio Nadal"
+toc: true
+toc-location: right
+toc-title: Índice
+toc-depth: 1
+
+code-overflow: wrap
+highlight-style: arrow
+anchor-sections: false
+---
+
+# Descripción
+El *Premio Nadal de novela* es conocido por ser el primer concurso literario en España, el premio es entregado por las *edicones Destino* cada 6 de enero en el hotel Ritz de Barcelona desde 1944. Al igual que en el *premio Planeta*, la novela ha de ser inédita.
+
+Este 2023 el premio ha sido un total de 30.000 €. Además este año se han presentado 997 obras originales, 128 de las cuales de Madrid y 59 de Barcelona. La ganadora de esta edición ha sido el poeta y escritor Manuel Vilas.
+
+# Historia 
+
+A persar de que se llama *premio Nadal* y se entregue en en Barcelona un 6 de enero (*Nadal* en valenciano significa navidad). El origen del concurso no tiene que ver con la Navidad. El nombre del concurso proviene de Eugenio Nadal, un falangista que era el redactor jefe de *Destino* que falleció en 1944. Y Ignacio Agustí director del semanario Destino decidió poner el nombre del concurso en su honor.
+
+En la primera edición contaron con 27 de obras. Una de ellas llegó el último día de admisión en un sobre de correo urgente, el título de esa obra era *Nada* de Carmen Laforet. En *Nada* es  analizado el estado de la sociedad española en la postuguerra de  Guerra Civil. La noche del 6 de enero de 1945 Carmen Laforet pasa a ser la primera ganadora del *premio Nadal*.  Delibes afirmó que la primera edición de Nadal había cumplido su objetivo `vivificar la novela española, desvelar jóvenes valores`
+
+![Carmen Laforet](../img/carmen-laforet.jpg)
+ 
+
+# Curiosidades
+
+- Ediciones Destino fue comprado por el grupo planeta en 196
+- La velada donde se entrega el premio coincide con el *Premi Josep Pla de prosa en català*
+- Desde 2010 no hay finalista
+
+
+# Ganadores
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<p class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Primeros premiados</button>
+</p>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+- 1944: *Nada* Carmen Laforet 	 	
+- 1945: *La luna ha entrado en casa* José Félix Tapia 	 	
+- 1946: *Un hombre* José María Gironella 	
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Premiados conocidos
+</button>
+</p>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1944: *Nada* Carmen Laforet 	 	
+- 1947: *La sombra del ciprés es alargada* Miguel Delibes
+- 1955: *El Jarama* Rafael Sánchez Ferlosio
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+Últimos premiados</button>
+</p>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 2023: *Nosotros* Manuel Vilas
+- 2022: *Las formas de querer* Ines Martín Rodrigo
+- 2021: *El lunes nos querrán* Najat el Hachmi
+
+</div>
+</div>
+</div>
+</div>
+
+<button class="btn btn-primary ades"><a  href="../index.html"> Volver a la página principal</a></button>

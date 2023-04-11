@@ -37,9 +37,13 @@ En 1975 dos meses antes de morir Franco, el que en aquel momento era el Minister
 # Curiosidades
 
 - El premio lo entrega el rey de España
-- En los discursos de la entrega se ha de elogiar a a Cervantes y son conservados en la web del ministerio
+- En los discursos de la entrega se ha de elogiar a Cervantes y son conservados en la web del ministerio
 - Siempre se entrega en el Paraninfo de la Universidad de Alcalá de Henares
 - A día de hoy el 50% de los galardos son Españoles
+
+![Paraninfo de la Universidad de Alcalá de Henares](../img/pan.jpg)
+
+
 # Ganadores
 
 <div class="accordion" id="accordionExample">

@@ -15,7 +15,9 @@ El *Premio Planeta* es entregado por la [editorial Planeta](https://www.planetad
 
 En esta última edición (71ª), se superó el récord de participación, con 846 obras. La gran mayoría procedentes de España y América del sur. La ganadora del concurso ha sido la española Luz Gabás con *Lejos de Luisiana*.
 
-En relación al funcionamiento interno, todas las obras son leídas y calificadas. Tras ésto, las 10 obras que han obtenido calificacione más altas son entregadas al jurado el cual elige una ganadora y una finalista.
+En relación al funcionamiento interno, todas las obras son leídas y calificadas. Tras ésto, las 10 obras que han obtenido calificaciones más altas son entregadas al jurado el cual elige una ganadora y una finalista.
+
+![*Lejos de Luisiana* de Luz Gabás](../img/Luisiana.jpg)
 
 # Historia 
 
@@ -56,7 +58,7 @@ Premiados conocidos
 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 - 1993: *Lituma en los Andes* Mario Vargas Llosa
-- 1994: *La cruz se San Andrés* Camilo José Cela
+- 1994: *La cruz de San Andrés* Camilo José Cela
 - 2010: *Riña de gatos. Madrid 1936* Eduardo Mendoza
 
 </div>
