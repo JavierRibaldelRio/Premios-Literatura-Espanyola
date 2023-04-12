@@ -11,6 +11,12 @@ website:
   navbar:
     collapse: false
     left: []
+  
+  page-footer: 
+    right: "Javier Ribal del Río Nº 23"
+    left: "Castellano 1º Bachillerato A"
+    background: "dark"
+    border: true
       
 format:
   html:
