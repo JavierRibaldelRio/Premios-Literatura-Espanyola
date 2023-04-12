@@ -26,9 +26,9 @@ En la primera edición contaron con 27 de obras. Una de ellas llegó el último 
 
 # Curiosidades
 
-- Ediciones Destino fue comprado por el grupo planeta en 196
+- Ediciones Destino fue comprado por el grupo planeta en 1996
 - La velada donde se entrega el premio coincide con el *Premi Josep Pla de prosa en català*
-- Desde 2010 no hay finalista
+- Desde 2010 no hay finalistas
 
 
 # Ganadores
@@ -79,4 +79,4 @@ Premiados conocidos
 </div>
 </div>
 
-<button class="btn btn-primary ades"><a  href="../index.html"> Volver a la página principal</a></button>
+<a role="button" class="btn btn-primary nolink"  href="../index.html"> Volver a la página principal</a>

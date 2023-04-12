@@ -1,0 +1,110 @@
+---
+title: "Premio Nobel de Literatura"
+toc: true
+toc-location: right
+toc-title: Índice
+toc-depth: 1
+
+code-overflow: wrap
+highlight-style: arrow
+anchor-sections: false
+---
+
+# Descripción
+El *Premio Nobel de Literatura*, máximo galardón que obtener un autor en el panorama internacional, es entregado el 10 de diciembre por la [Fundación Nobel](https://www.nobelprize.org/) `"a quien hubiera producido en el campo de la literatura la obra más destacada, en la dirección ideal"`. El ganador es anunciado el primer jueves de octubre. En esta última edición el ganador fue dotado con 964.000 €
+
+El proceso para la elección del premio nobel es muy complejo, primero la Academia Sueca de Letras, instituye una Comisión Nobel que manda 700 cartas ha autoridades literarias (miembros de academias de letras, presidentes de organizaciones de escritores, catedráticos y los ganadores de ediciones pasadas del premio Nobel), para que nominen un candidato al premio. La comisión recibe aproximadamente 350 respuestas. Tras la eliminación de los repetidos se hace un cribado de autores hasta dejar 200. Después se realiza una lista preliminar de 15 autores, que tras ser aprobada por la Academia Sueca de Letras se reduce a un grupo de 5. Finalmente la Academia Sueca de Letras elige a un ganador Además el gandador ha tenido que ser nominado al menos dos veces.
+
+![Premio Nobel](../img/nobel.png)
+
+# Historia 
+
+Alfred Nobel fue el decubridor de la nitroglicerina y el inventor de la dinamita. En 1888 leyó su propia esquela, ya que su hermano había fallecido y un peridico Frances lo confundió con él. El título de la esquela era `"El mercader de la muerte a muerto"`. Esto desconcertó a Nobel y le hizo cambiar todo su testamento para que tras su muerte se fundase la *Fundación Nobel* con su fortuna (alrededor de 9 millones de dólares). En su último testamento especifico la creación de los 5 primeros premio Nóbel a la: Química, Física, Literatura, Medicina y Paz. El premio Nóbel a las ciencias económicas fue implementado más tarde.
+ 
+
+# Curiosidades
+
+- Los nominados de una edición son revelados 50 años después de que se entregue el premio
+- Se entrega con los demás premios nobel, excepto con el de la Paz que se entrega en Oslo(Noruega)
+- En 1964  Jean-Paul Sastre renunció al premió afirmando que si lo aceptase dejaría de ser un filósofo
+- En 1958 Borís Pasternak fue obligado por la URSS
+- La `"dirección ideal"` de Alfred Nobel, ha sido interpretada de distintas manera a lo largo de la historia
+- En la Primera Guerra Mundial, se aplicó la política de la neutralidad y ganarón muchos escritores escandinavos
+- El país que más premiados ha tenido ha sido Francia
+- La edad meda de los premiados es 65 años
+
+
+# Ganadores
+
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<p class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Primeros premiados</button>
+</p>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+
+- 1901: Sully Prudhomme (Francia)
+- 1902: Theodor Mommsen (Imperio alemán) 	 	
+- 1903: Bjørnstjerne Bjørnson (Noruega)	
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Premiados Españoles
+</button>
+</p>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1904: José Echegaray	 	
+- 1922: Jacinto Benavente
+- 1956: Juan Ramón Jiménez
+- 1977: Vicente Aleixandre
+- 1989: Camiló José Cela
+
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingTw">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTw" aria-expanded="false" aria-controls="collapseTw">
+Premiados conocidos
+</button>
+</p>
+<div id="collapseTw" class="accordion-collapse collapse" aria-labelledby="headingTw" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 1913: Rabindranath Tagore (Raj Británico)
+- 1945: Gabriela Mistral (Chile)
+- 1953: Winston Churchill (Reino Unido) 
+- 1971: Pablo Neruda (Chile)
+- 1982: Gabriel García Márquez (Colombia)
+- 2010: Mario Vargas Llosa (Perú)
+- 2016: Bob Dylan (Estados Unidos)
+
+
+</div>
+</div>
+</div>
+<div class="accordion-item">
+<p class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+Últimos premiados</button>
+</p>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+- 2022: Annie Ernaux (Francia)
+- 2022: Abdulrazak Gurnah (Tanzania)
+- 2021: Louise Glück (Estados Unidos)
+
+</div>
+</div>
+</div>
+</div>
+
+<a role="button" class="btn btn-primary nolink"  href="../index.html"> Volver a la página principal</a>
+
+[Mi abuela, exprofesora de lengua, siempre dice: `"tenían que haberle dado el Nobel a Delibes y a Galdós"`]

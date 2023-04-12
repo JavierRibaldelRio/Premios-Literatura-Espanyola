@@ -80,4 +80,4 @@ Premiados conocidos
 </div>
 </div>
 
-<button class="btn btn-primary ades"><a  href="../index.html"> Volver a la página principal</a></button>
+<a role="button" class="btn btn-primary nolink"  href="../index.html"> Volver a la página principal</a>

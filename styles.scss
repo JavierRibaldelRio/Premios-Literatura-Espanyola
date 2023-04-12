@@ -9,7 +9,6 @@ main {
 .botones-separados {
     display: flex;
     width: 100%;
-    margin: 3vmin 0;
     justify-content: space-between;
 
     padding: 0 5vmin;
@@ -17,7 +16,9 @@ main {
 
 h1,
 h2,
-li {
+li,
+a,
+button {
 
     text-indent: 0px;
 }
@@ -27,25 +28,37 @@ header span {
     color: white !important;
 }
 
-.botones-separados a,
-.ades a {
+.nolink {
 
     text-decoration: none;
 
 
-
     color: white;
 
-    cursor: default;
+    cursor: pointer;
+
+
+    margin: 8vmin 0;
 }
 
-.ades {
+.nolink:hover {
 
-    margin: 5vmin 0;
+    color: white !important
 }
 
 img {
 
     max-height: 100vh !important;
     width: auto;
+}
+
+
+.centrado {
+
+    text-align: center;
+}
+
+.nomain {
+
+    text-align: left;
 }

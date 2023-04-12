@@ -1,6 +1,3 @@
----
-title: "Introducción"
----
 
 Está escrito en las leyes de la naturaleza que dos individuos o más de la misma especie tienden a desarrollar una relación de competencia. Los autores y escritores, como son individuos de la misma especie, a veces puden rivalizar unos con otros (como es el caso de Góngora y Quevedo). Sin embargo, hay muchas cosas por las que competir, en el mundo de los autores destacan dos cosas: la fama y el reconocimiento.
 
@@ -9,7 +6,23 @@ Para ésto se inventaron los concursos para elegir la mejor obra o al mejor auto
 A continuación vamos a repasar los premios de literatura española más célebres:
 
 <div class="botones-separados">
-<button type="button" class="btn btn-secondary"><a href="pages/premio-planeta.html">Premio Planeta</a></button>
-<button type="button" class="btn btn-danger"><a href="pages/premio-cervantes.html">Premio Cervantes</a></button>
-<button type="button" class="btn btn-warning"><a href="pages/premio-nadal.html">Premio Nadal</a></button>
+
+<a role="button" class="btn btn-success nolink" href="pages/premio-planeta.html">Premio Planeta</a>
+
+<a role="button" class="btn btn-danger nolink" href="pages/premio-cervantes.html">Premio Cervantes</a>
+
+<a role="button" class="btn btn-warning nolink" href="pages/premio-nadal.html">Premio Nadal</a>
+
 </div>
+
+En el ámbito internacional, aparte de los concursos propios de cada idioma, como el premio Goncourt del francés, destaca el premio nobel de literatura.
+
+<div class="centrado">
+
+<a role="button" class="btn btn-primary nolink" href="pages/premio-nobel.html">Premio Nobel de la Literatura</a>
+
+
+<a href="pages/webgrafia.html" role="button" class="btn btn-outline-dark">Webgrafía</a>
+
+</div>
+
