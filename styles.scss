@@ -53,9 +53,10 @@ img {
 }
 
 
-.centrado {
+.centrado,
+figcaption {
 
-    text-align: center;
+    text-align: center !important;
 }
 
 .nomain {
