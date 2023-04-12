@@ -11,27 +11,27 @@ anchor-sections: false
 ---
 
 # Descripción
-El *Premio Nobel de Literatura*, máximo galardón que obtener un autor en el panorama internacional, es entregado el 10 de diciembre por la [Fundación Nobel](https://www.nobelprize.org/) `"a quien hubiera producido en el campo de la literatura la obra más destacada, en la dirección ideal"`. El ganador es anunciado el primer jueves de octubre. En esta última edición el ganador fue dotado con 964.000 €
+El *Premio Nobel de Literatura*, máximo galardón que puede obtener un autor en el panorama internacional, es entregado el 10 de diciembre por la [Fundación Nobel](https://www.nobelprize.org/) `"a quien hubiera producido en el campo de la literatura la obra más destacada, en la dirección ideal"`. El ganador es anunciado el primer jueves de octubre. En esta última edición el ganador recibió dotado con 964.000 €
 
-El proceso para la elección del premio nobel es muy complejo, primero la Academia Sueca de Letras, instituye una Comisión Nobel que manda 700 cartas ha autoridades literarias (miembros de academias de letras, presidentes de organizaciones de escritores, catedráticos y los ganadores de ediciones pasadas del premio Nobel), para que nominen un candidato al premio. La comisión recibe aproximadamente 350 respuestas. Tras la eliminación de los repetidos se hace un cribado de autores hasta dejar 200. Después se realiza una lista preliminar de 15 autores, que tras ser aprobada por la Academia Sueca de Letras se reduce a un grupo de 5. Finalmente la Academia Sueca de Letras elige a un ganador Además el gandador ha tenido que ser nominado al menos dos veces.
+El proceso para la elección del premio nobel es muy complejo, primero la Academia Sueca de Letras, instituye una Comisión Nobel que manda 700 cartas ha autoridades literarias (miembros de academias de letras, presidentes de organizaciones de escritores, catedráticos y los ganadores de ediciones pasadas del premio Nobel), para que nominen un candidato al premio. La comisión recibe aproximadamente 350 respuestas. Tras la eliminación de los repetidos se hace un cribado de autores hasta dejar 200. Después se realiza una lista preliminar de 15 autores, que tras ser aprobada por la Academia Sueca de Letras se reduce a un grupo de 5. Finalmente la Academia Sueca de Letras elige a un ganador. Además, el ganadador ha tenido que ser nominado al menos dos veces.
 
 ![Premio Nobel](../img/nobel.png)
 
 # Historia 
 
-Alfred Nobel fue el decubridor de la nitroglicerina y el inventor de la dinamita. En 1888 leyó su propia esquela, ya que su hermano había fallecido y un peridico Frances lo confundió con él. El título de la esquela era `"El mercader de la muerte a muerto"`. Esto desconcertó a Nobel y le hizo cambiar todo su testamento para que tras su muerte se fundase la *Fundación Nobel* con su fortuna (alrededor de 9 millones de dólares). En su último testamento especifico la creación de los 5 primeros premio Nóbel a la: Química, Física, Literatura, Medicina y Paz. El premio Nóbel a las ciencias económicas fue implementado más tarde.
+Alfred Nobel fue el decubridor de la nitroglicerina y el inventor de la dinamita. En 1888 leyó su propia esquela, ya que su hermano había fallecido y un periodico francés lo confundió con él. El título de la esquela era `"El mercader de la muerte ha muerto"`. Esto desconcertó a Nobel y le hizo cambiar todo su testamento para que tras su muerte se fundase la *Fundación Nobel* con su fortuna (alrededor de 9 millones de dólares). En su último testamento especifico la creación de los 5 primeros premios Nobel de Química, Física, Literatura, Medicina y Paz. El premio Nobel a las ciencias económicas fue implementado más tarde.
  
 
 # Curiosidades
 
 - Los nominados de una edición son revelados 50 años después de que se entregue el premio
-- Se entrega con los demás premios nobel, excepto con el de la Paz que se entrega en Oslo(Noruega)
+- Se entrega con los demás premios nobel, excepto con el de la Paz que se entrega en Oslo (Noruega)
 - En 1964  Jean-Paul Sastre renunció al premió afirmando que si lo aceptase dejaría de ser un filósofo
-- En 1958 Borís Pasternak fue obligado por la URSS
+- En 1958 Borís Pasternak fue obligado a renunciar por la Unión Soviética
 - La `"dirección ideal"` de Alfred Nobel, ha sido interpretada de distintas manera a lo largo de la historia
 - En la Primera Guerra Mundial, se aplicó la política de la neutralidad y ganarón muchos escritores escandinavos
 - El país que más premiados ha tenido ha sido Francia
-- La edad meda de los premiados es 65 años
+- La edad media de los premiados es 65 años
 
 
 # Ganadores
@@ -107,4 +107,4 @@ Premiados conocidos
 
 <a role="button" class="btn btn-primary nolink"  href="../index.html"> Volver a la página principal</a>
 
-[Mi abuela, exprofesora de lengua, siempre dice: `"tenían que haberle dado el Nobel a Delibes y a Galdós"`]
+[Mi abuela, profesora de lengua jubilada, siempre dice: `"tenían que haberle dado el Nobel a Delibes y a Galdós"`]

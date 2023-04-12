@@ -11,11 +11,11 @@ anchor-sections: false
 ---
 
 # Descripción
-El *Premio Planeta* es entregado por la [editorial Planeta](https://www.planetadelibros.com/editorial/editorial-planeta/8) a la mejor novela inédita. Actualmente ostenta el puesto de concurso literario con mayor premio económico,que en el pasado 2022, fueron un total <strong>1.000.000€</strong> para la obra ganadora y 200.000€ para la finalista además de la publicación del libro por la editorial planeta y los beneficios que ésta genere.
+El *Premio Planeta* es entregado por la [editorial Planeta](https://www.planetadelibros.com/editorial/editorial-planeta/8) a la mejor novela inédita. Actualmente ostenta el puesto de concurso literario con mayor premio económico. El pasado 2022, el premio ascendió <strong>1.000.000€</strong> para la obra ganadora y 200.000€ para la finalista, además de la publicación del libro por la editorial Planeta y los beneficios que éste genere.
 
 En esta última edición (71ª), se superó el récord de participación, con 846 obras. La gran mayoría procedentes de España y América del sur. La ganadora del concurso ha sido la española Luz Gabás con *Lejos de Luisiana*.
 
-En relación al funcionamiento interno, todas las obras son leídas y calificadas. Tras ésto, las 10 obras que han obtenido calificaciones más altas son entregadas al jurado el cual elige una ganadora y una finalista.
+En relación al funcionamiento interno, todas las obras son leídas y calificadas. Tras ésto, las diez obras que han obtenido calificaciones más altas son entregadas al jurado el cual elige una ganadora y una finalista.
 
 ![*Lejos de Luisiana* de Luz Gabás](../img/Luisiana.jpg)
 
@@ -28,9 +28,8 @@ El *Premio Planeta* fue creado por el fundador de la editorial Planeta, José Ma
 - Mercedes Salisachs fue finalista dos veces y también ganadora
 - Ha habido ganadores que más tarde han sido miembros del jurado
 - El primer premio eran 40.000 pesetas que son 240 € y que en la situación económica actual serían 3.500 €
-- El último premio han sido un 1.000.000 € que son 166.386.000 pesetas
 - En las primeras portadas se encuentran personajes desesperados y en las últimas paisajes metropolitanos o marítimos
-- Miguel Delibes y Ernesto Sábado, decian que recibieron la oferta de ganar el premio
+- Miguel Delibes y Ernesto Sábato contaban que recibieron la oferta de ganar el premio
 - En la edición de 2021 ganaron tres autores bajo el nombre de Carmen Mola
 
 # Ganadores

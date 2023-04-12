@@ -12,34 +12,34 @@ anchor-sections: false
 
 # Descripción
 
-El *Premio de Literarura en Lengua Castellana Miguel de Cervantes* es el *summum* de los premios de la literatura castellana, a diferencia del *premio Planeta* y *el premio Nadal*, éste es entregado a aquel escritor que con su trayectoria literaria ha enriquecido de forma notable la lengua castellana.
+El *Premio de Literatura en Lengua Castellana Miguel de Cervantes* es el *summum* de los premios de la literatura castellana. A diferencia del *premio Planeta* y *el premio Nadal*, éste es entregado a aquel escritor que con su trayectoria literaria ha enriquecido de forma notable la lengua castellana.
 
-Los candidatos son elegidos por el pleno de la RAE, conjuntamente con los ganadores de ediciones anteriores y por las Academias de la lengua de los paises de habla hispana. Después un jurado formado por:
+Los candidatos son elegidos por el pleno de la RAE, conjuntamente con los ganadores de ediciones anteriores y por las Academias de la lengua de los países de habla hispana. Después ,el ganador es elegido por un jurado formado por:
 
 - Los dos últimos galardonados por el premio;
-- Un miembro de la Rae;
+- Un miembro de la RAE;
 - Un miembro de una de las Academias Iberoamericanas de la lengua español;
-- Cuatro personalidades del mundo académico (Elegidas por: el Director del Instituto Cervantes, La Unión de Universidades de América Latina, La Conferencia de Rectores de las Universidades Españolas y el ministro de Cultura de españa);
-- Dos miembros elegidos por representates de suplementos culturales de diarios (Elegidos por: la Federación de Asociaciones de Periodistas de España y una asociación de periodistas mayoritaria en Latinoamérica);
-- Un miembro propuestos pro la Asociación Internacional de Hispanitas.
+- Cuatro personalidades del mundo académico (Elegidas por: el Director del Instituto Cervantes, La Unión de Universidades de América Latina, la Conferencia de Rectores de las Universidades Españolas y el ministro de Cultura de españa);
+- Dos miembros elegidos por representantes de suplementos culturales de diarios (Elegidos por: la Federación de Asociaciones de Periodistas de España y una asociación de periodistas mayoritaria en Latinoamérica);
+- Un miembro propuestos por la Asociación Internacional de Hispanistas.
 
 El premio se entrega el 23 de abril de cada año coincidiendo con el día de la muerte de Cervantes y el día del libro. 
 
-El premio es una dotación económica de 125.000 € concedida por el Ministerio de Cultura y Deporte
+El premio consiste una dotación económica de 125.000 € concedida por el Ministerio de Cultura y Deporte.
 
 
 # Historia 
 
 El origen del nombre no trae consigo ningún misterio, Cervantes es el archiconocido autor de *El Quijote*, la obra más importante de la literatura castellana.
 
-En 1975 dos meses antes de morir Franco, el que en aquel momento era el Ministerio de Información y Turismo crea el premio por: *la conveniencia de otorgar un reconocimiento oﬁcial, en que se una a la notoriedad pública la creación literaria en lengua castellana*. El primer premiado fue Jorge Guillén un poeta exiliado en 1976 a mitad de la Transición
+En 1975, dos meses antes de morir Franco, el Ministerio de Información y Turismo crea el premio por: `"la conveniencia de otorgar un reconocimiento oﬁcial, en que se una a la notoriedad pública la creación literaria en lengua castellana"`. El primer premiado fue Jorge Guillén un poeta exiliado, recibió el premio en 1976 a principios de la transición.
 
 # Curiosidades
 
 - El premio lo entrega el rey de España
 - En los discursos de la entrega se ha de elogiar a Cervantes y son conservados en la web del ministerio
 - Siempre se entrega en el Paraninfo de la Universidad de Alcalá de Henares
-- A día de hoy el 50% de los galardos son Españoles
+- A día de hoy el 50% de los galardos son españoles
 
 ![Paraninfo de la Universidad de Alcalá de Henares](../img/pan.jpg)
 

@@ -11,15 +11,15 @@ anchor-sections: false
 ---
 
 # Descripción
-El *Premio Nadal de novela* es conocido por ser el primer concurso literario en España, el premio es entregado por las *edicones Destino* cada 6 de enero en el hotel Ritz de Barcelona desde 1944. Al igual que en el *premio Planeta*, la novela ha de ser inédita.
+El *Premio Nadal de novela* es conocido por ser el primer concurso literario en España. El premio es entregado por las *ediciones Destino* cada 6 de enero en el hotel Ritz de Barcelona desde 1944. Al igual que en el *premio Planeta*, la novela ha de ser inédita.
 
-Este 2023 el premio ha sido un total de 30.000 €. Además este año se han presentado 997 obras originales, 128 de las cuales de Madrid y 59 de Barcelona. La obra ganadora de esta edición ha sido *Nosotros* del poeta y escritor Manuel Vilas.
+Este 2023 el premio ha ascendido a 30.000 €. Además, este año se han presentado 997 obras originales, 128 de las cuales  provienen de Madrid y 59 de Barcelona. La obra ganadora de esta edición ha sido *Nosotros* del poeta y escritor Manuel Vilas.
 
 # Historia 
 
-A persar de que se llama *premio Nadal* y se entregue en en Barcelona un 6 de enero (*Nadal* en valenciano significa navidad). El origen del concurso no tiene que ver con la Navidad. El nombre del concurso proviene de Eugenio Nadal, un falangista que era el redactor jefe de *Destino* que falleció en 1944. Y Ignacio Agustí director del semanario Destino decidió poner el nombre del concurso en su honor.
+A pesar de que se llama *premio Nadal* y se entregue en en Barcelona un 6 de enero (*Nadal* en valenciano significa navidad). El origen del concurso no tiene que ver con la Navidad. El nombre del concurso proviene de Eugenio Nadal, un falangista que era el redactor jefe del *semanario Destino* y que falleció en 1944. Ignacio Agustí, director del semanario, decidió poner el nombre del concurso en su honor.
 
-En la primera edición contaron con 27 de obras. Una de ellas llegó el último día de admisión en un sobre de correo urgente, el título de esa obra era *Nada* de Carmen Laforet. En *Nada* es  analizado el estado de la sociedad española en la postuguerra de  Guerra Civil. La noche del 6 de enero de 1945 Carmen Laforet pasa a ser la primera ganadora del *premio Nadal*.  Delibes afirmó que la primera edición de Nadal había cumplido su objetivo `vivificar la novela española, desvelar jóvenes valores`
+En la primera edición contaron con 27 de obras. Una de ellas llegó el último día de admisión en un sobre de correo urgente, el título de esa obra era *Nada* de Carmen Laforet. En *Nada* es  analizado el estado de la sociedad española en la postguerra de la Guerra Civil. La noche del 6 de enero de 1945 Carmen Laforet pasa a ser la primera ganadora del *premio Nadal*. Delibes afirmó que la primera edición de Nadal había cumplido su objetivo `"vivificar la novela española, desvelar jóvenes valores"`
 
 ![Carmen Laforet](../img/carmen-laforet.jpg)
  
