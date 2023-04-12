@@ -13,7 +13,7 @@ anchor-sections: false
 # Descripción
 El *Premio Nadal de novela* es conocido por ser el primer concurso literario en España, el premio es entregado por las *edicones Destino* cada 6 de enero en el hotel Ritz de Barcelona desde 1944. Al igual que en el *premio Planeta*, la novela ha de ser inédita.
 
-Este 2023 el premio ha sido un total de 30.000 €. Además este año se han presentado 997 obras originales, 128 de las cuales de Madrid y 59 de Barcelona. La ganadora de esta edición ha sido el poeta y escritor Manuel Vilas.
+Este 2023 el premio ha sido un total de 30.000 €. Además este año se han presentado 997 obras originales, 128 de las cuales de Madrid y 59 de Barcelona. La obra ganadora de esta edición ha sido *Nosotros* del poeta y escritor Manuel Vilas.
 
 # Historia 
 
